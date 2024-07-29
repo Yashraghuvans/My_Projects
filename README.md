@@ -7,9 +7,6 @@ This repository contains a collection of my C++ projects.
 ## Project List
 
 ### Project 1: Rock-Paper-Scissors Game
-<img src="https://media.tenor.com/images/c3e1d538eae2ac649e0eb7a4a25d5177/tenor.gif" alt="Image Description" width="500" height="200">
-
-
 
 This C++ project implements a simple Rock-Paper-Scissors game with a time limit.
 
@@ -26,7 +23,7 @@ This C++ project implements a simple Rock-Paper-Scissors game with a time limit.
 2. Run the generated executable.
 
 **Gameplay:**
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/thomasblom/casino-rock-paper-scissors/main/rock-paper-scissors.gif">
+<img align="right" src="https://media.tenor.com/images/c3e1d538eae2ac649e0eb7a4a25d5177/tenor.gif" alt="Image Description" width="400" height="300">
 
 1. The game will display a welcome message and a time limit.
 2. The player selects an option (rock, paper, or scissors).
@@ -45,6 +42,41 @@ This C++ project implements a simple Rock-Paper-Scissors game with a time limit.
 * Add error handling for invalid input.
 * Introduce different game modes or difficulty levels.
 
+
+##
+### Project 2: Tic-Tac-Toe Game
+
+This C++ program creates a simple text-based Tic-Tac-Toe game where you play against the computer.
+
+### Features
+* Easy-to-understand game rules.
+* Basic computer opponent.
+* Displays win, loss, or tie results.
+* Uses the console for gameplay.
+
+<img align="right" alt="Coding" width="400" src="https://i.giphy.com/gR92EF4p9XyEHyD2n5.webp" height="300">
+### How to Play
+1. Run the compiled program.
+2. The game board will appear.
+3. Choose a spot (1-9) to place your 'X'.
+4. The computer will then make its move.
+5. The game continues until someone wins or it's a tie.
+
+### Known Issues
+* The computer isn't very smart.
+* Doesn't check for invalid moves.
+
+### Future Plans
+* Make the computer smarter.
+* Allow two players to compete.
+* Create different sized game boards.
+* Add graphics for a better look.
+
+
+
+## Author
+
+Yash Raghuvanshi
 
 
 ## Contributing
