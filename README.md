@@ -55,6 +55,7 @@ This C++ program creates a simple text-based Tic-Tac-Toe game where you play aga
 * Uses the console for gameplay.
 
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/gR92EF4p9XyEHyD2n5.webp" height="300">
+
 ### How to Play
 1. Run the compiled program.
 2. The game board will appear.
